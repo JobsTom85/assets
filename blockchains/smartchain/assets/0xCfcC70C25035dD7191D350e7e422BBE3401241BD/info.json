@@ -1,0 +1,11 @@
+{
+  "name": "HOPECOIN",
+  "symbol": "HOPE",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "HOPECOIN is a humanitarian cryptocurrency dedicated to helping oppressed, starving and marginalized people around the world through decentralized aid and charitable funding.",
+  "website": "https://hopecoin79.webnode.cz",
+  "explorer": "https://bscscan.com/token/0xCfcC70C25035dD7191D350e7e422BBE3401241BD",
+  "status": "active",
+  "id": "0xCfcC70C25035dD7191D350e7e422BBE3401241BD"
+}
